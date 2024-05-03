@@ -25,5 +25,6 @@ python ./manage.py runserver
 ### Starting later on
 - Run these commands in the terminal
 ```bash
+.\venv\Scripts\activate
 python ./manage.py runserver
 ```
